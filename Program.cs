@@ -10,6 +10,7 @@ namespace TestCSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hotfix one");
         }
     }
 }

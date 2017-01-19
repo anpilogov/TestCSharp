@@ -1,1 +1,7 @@
 C:\Repository\TestCSharp\TestCSharp\bin\Debug\TestCSharp.exe.config
+C:\Repository\TestCSharp\bin\Debug\TestCSharp.exe.config
+C:\Repository\TestCSharp\bin\Debug\TestCSharp.exe
+C:\Repository\TestCSharp\bin\Debug\TestCSharp.pdb
+C:\Repository\TestCSharp\obj\Debug\TestCSharp.csprojResolveAssemblyReference.cache
+C:\Repository\TestCSharp\obj\Debug\TestCSharp.exe
+C:\Repository\TestCSharp\obj\Debug\TestCSharp.pdb
