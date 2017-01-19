@@ -19,6 +19,7 @@ namespace TestCSharp
             Console.WriteLine("Test one hotfix");
 
             Console.WriteLine("hotfix-one");
+            Console.WriteLine("hotfix-one_one");
         }
     }
 }
