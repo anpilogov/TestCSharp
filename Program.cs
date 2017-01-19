@@ -11,6 +11,7 @@ namespace TestCSharp
         static void Main(string[] args)
         {
             Console.WriteLine("hotfix one");
+            Console.WriteLine("hotfix one one");
         }
     }
 }
