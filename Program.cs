@@ -23,6 +23,8 @@ namespace TestCSharp
             Console.WriteLine("hotfix fou fou");
 
             Console.WriteLine("Editing for development branch");
+
+            Console.WriteLine("hotfix 1.1.1");
         }
     }
 }
