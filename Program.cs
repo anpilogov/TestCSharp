@@ -37,6 +37,10 @@ namespace TestCSharp
             Console.WriteLine("new");
 
             Console.WriteLine("commit");
+
+            Console.WriteLine("commitTest");
+
+            Console.WriteLine("commitTest2");
         }
     }
 }
