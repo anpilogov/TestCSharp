@@ -35,6 +35,8 @@ namespace TestCSharp
             Console.WriteLine("Editing for development branch three");
 
             Console.WriteLine("new");
+
+            Console.WriteLine("commit");
         }
     }
 }
