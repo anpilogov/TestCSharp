@@ -33,6 +33,18 @@ namespace TestCSharp
             Console.WriteLine("hotfix 1.1.3");
 
             Console.WriteLine("Editing for development branch three");
+
+            Console.WriteLine("new");
+
+            Console.WriteLine("commit");
+
+            Console.WriteLine("commitTest");
+
+            Console.WriteLine("commitTest2");
+
+            Console.WriteLine("commitTest2");
+
+            Console.WriteLine("Merge");
         }
     }
 }
