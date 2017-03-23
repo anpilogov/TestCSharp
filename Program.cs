@@ -41,6 +41,10 @@ namespace TestCSharp
             Console.WriteLine("commitTest");
 
             Console.WriteLine("commitTest2");
+
+            Console.WriteLine("commitTest2");
+
+            Console.WriteLine("Merge");
         }
     }
 }
